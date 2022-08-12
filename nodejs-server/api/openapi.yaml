@@ -6,7 +6,7 @@ servers:
 - url: https://virtserver.swaggerhub.com/MOTreasury/test/1.0.1
   description: SwaggerHub API Auto Mocking
 paths:
-  /devices:
+  /devicess:
     post:
       tags:
       - Device
